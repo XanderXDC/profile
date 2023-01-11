@@ -1,0 +1,35 @@
+.center {
+  text-align: center;
+}
+#title {
+  background-color: #bbbfca;
+}
+#about {
+  background-color: #9ba4b4;
+}
+#skills {
+  background-color: #394867;
+}
+#education {
+  background-color: #14274e;
+}
+#awards {
+  background-color: #394867;
+}
+#footer {
+  background-color: #9ba4b4;
+}
+.table th,
+.table td {
+  width: 50%;
+  float: left;
+  word-break: break-word;
+  padding-left: 10px;
+  font-size: 15px;
+}
+tr {
+  float: none;
+  border-left: 0.01em solid #dee2e6;
+  border-right: 0.01em solid #dee2e6;
+  border-bottom: 0.01em solid #dee2e6;
+}
